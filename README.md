@@ -31,3 +31,7 @@ this is my code `var x=12`
 image :
 
 ![this is a flower](https://www.gardendesign.com/pictures/images/675x529Max/site_3/helianthus-yellow-flower-pixabay_11863.jpg)
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
