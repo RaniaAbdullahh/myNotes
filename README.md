@@ -35,3 +35,6 @@ image :
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+- this is first element 
+- this second element 
